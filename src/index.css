@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: "Poppins";
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  
+}
+
+.buttonHome{
+  background: linear-gradient(90deg, rgba(97, 64, 32, 1) 0%, rgba(72, 16, 16, 1) 100%);
+}
+
+.bgFooter{
+  background: rgb(70, 69, 69);
+}
+
+
+
